@@ -1,0 +1,56 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.bioButton {
+  text-shadow: 0 1px 0 #fff;
+  background-image: -webkit-linear-gradient(top, #fff 0%, #e0e0e0 100%);
+  background-image:         linear-gradient(to bottom, #fff 0%, #e0e0e0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe0e0e0', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-color: #dbdbdb;
+  border-color: #ccc;
+  padding: 8px 8px 8px 8px;
+  margin: :20px 10px 10px 10px;
+}
+
+.bioButton:hover {
+  background: #ffff22;
+}
+
+.Bio {
+	display: inline-block;
+	border: 2px solid teal;
+	padding: 25px;
+  background:#eebbcc;
+}
+
+.bioTxt {
+  text-align: center;
+  padding: 15px;
+}
+.jumbotron{
+  background-size: 200px;
+  background-color: #eeeeee;
+  margin-left: 75px;
+}
+.clickMe {
+  text-shadow: 0 1px 0 #fff;
+  background-image: -webkit-linear-gradient(top, #fff 0%, #e0e0e0 100%);
+  background-image:         linear-gradient(to bottom, #fff 0%, #e0e0e0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe0e0e0', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-color: #dbdbdb;
+  border-color: #ccc;
+  padding: 8px 8px 8px 8px;
+  margin: :10px 10px 10px 10px;
+  text-align: left;
+}
+.clickMe:hover {
+  background: #ffff22;
+  color: #00eebb;
+}
