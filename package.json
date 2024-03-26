@@ -3,7 +3,7 @@
 "description": "First Express app",
 "version": "0.0.1",
 "dependencies": {
-  "express": "3.x",
+  "express": "4.19.2",
   "hbs":"*",
   "grunt": "^0.4.5",
   "grunt-cli": "^0.1.13",
